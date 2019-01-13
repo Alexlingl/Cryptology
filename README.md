@@ -11,5 +11,12 @@ this ciphertext.
 
 ![image](https://github.com/Alexlingl/Cryptology/blob/master/images/project_arch.png)
 
+1、The "src" file folder has java source codes,includes "BuutonListen.java"-monitor class,"Config.java"-a interface that defines some parameters,"MessageWindows.java"-The main UI class and "PlayerMain.java"-The choose file UI class.
 
+2、The "lib" file folder has five *.jar file,corresponding to five encryption algorithms.The five files are "des.jar","fangshe.jar",
+"lfsrjk.jar","rc4.jar" and "rsa.jar".But you couldn't open the five files.If you want to see the java codes of five encrptology 
+algorithms,you can open the "libs" file folder.
+
+3、The "libs" file folder has five *.java file,corresponding to five encryption algorithms.You can see the specific java implements 
+of five encryption algorithms.
 
