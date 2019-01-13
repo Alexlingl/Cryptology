@@ -28,6 +28,8 @@ of five encryption algorithms.
 You can click "选择文件" button to choose the file that you want to encrypt.You can see the specific information in the choosen file on the
 left TextArea.
 
+![image](https://github.com/Alexlingl/Cryptology/blob/master/images/choose_file.png)
+
 2、drop down list
 The drop down list includes "仿射","流密码RC4","流密码LFSRJK","DES" and "RSA".You can choose one encryption algorithm to encrypt or decrypt
 the ciphertext.
