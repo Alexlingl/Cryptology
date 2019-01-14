@@ -25,19 +25,27 @@ of five encryption algorithms.
 ![image](https://github.com/Alexlingl/Cryptology/blob/master/images/Main_UI.png)
 
 1、"选择文件"
+
 You can click "选择文件" button to choose the file that you want to encrypt.You can see the specific information in the choosen file on the
 left TextArea.
 
 ![image](https://github.com/Alexlingl/Cryptology/blob/master/images/choose_file.png)
 
 2、drop down list
+
 The drop down list includes "仿射","流密码RC4","流密码LFSRJK","DES" and "RSA".You can choose one encryption algorithm to encrypt or decrypt
 the ciphertext.
 
 3、"加密"
+
 After you choose a file and a encryption algorithm,you can click the "加密" button.And this file will be encrypted with the encryption
 algorithm.You can see the ciphertext on the right TextArea.
 
 4、"解密"
+
 The "解密" button is the same as "加密" Button.The most important things is that you must choose the right decription algorithm!
+
+四、Running Result
+
+![image](https://github.com/Alexlingl/Cryptology/blob/master/images/result.png)
 
